@@ -1,5 +1,5 @@
 # phyllotaxis
-This projects aim is to simulate flowers phyllotaxis.
+This projects aim is to simulate flowers(Gerbera Daisy) phyllotaxis.
 
 Take a look at the arrangement of this flower's seeds, this project's goal is to find the location of all those seeds and create a 3d representation of the flower using Blender. Since it may be a new concept to you, I'll try to explain it a little bit, but for a better understanding of flowers phyllotaxis, read The Algorithmic Beauty of Plants book, Chapter 4. The link to this book is available in the references section.
 
