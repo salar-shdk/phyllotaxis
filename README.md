@@ -27,7 +27,7 @@ The most exciting thing about flower's seeds arrangement is that the number of s
 
 Now it is easy to trace the spirals and count the seeds in each of them (ex: 8 and 34 are the Fibonacci numbers for the first picture). but the former illustrations are the real flowers phyllotaxis.
 
-As the first attempt to generate the 3D model, if we replace the circles with cubes, the pictures below will be the result, you can easily see the  
+As the first attempt to generate the 3D model, if we replace the circles with cubes, the pictures below will be the result, you can easily see the phyllotaxis pattern. 
 
 <p align="center">
   <img alt="render-1000" align="center" src="https://user-images.githubusercontent.com/33146532/144824069-eb919b69-d360-4793-923b-167d0503c69d.png"/>
